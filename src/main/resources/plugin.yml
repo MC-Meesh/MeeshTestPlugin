@@ -1,0 +1,4 @@
+name: MeeshTestPlugin
+version: '${project.version}'
+main: com.github.mcmeesh.first.plugin.meeshtestplugin.MeeshTestPlugin
+api-version: 1.19
